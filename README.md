@@ -46,3 +46,11 @@ Trabalho desenvolvido com Larysse Freire
 
 ## Consultas SQL no Google Cloud. Disponíveis em: 
 https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1shipoteses-projeto2!2sprojeto2&pli=1&project=projeto2hipoteses-420119&supportedpurview=project
+
+
+![alt text](Imagens/hipotese_1.jpg)
+![alt text](Imagens/hipotese_2.jpg)
+![alt text](Imagens/hipotese_3.jpg)
+![alt text](Imagens/hipotese_4.jpg)
+![alt text](Imagens/hipotese_5.jpg)
+![alt text](Imagens/matriz_correlacao.jpg)
